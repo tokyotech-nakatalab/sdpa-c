@@ -1,4 +1,4 @@
-# SDPC-C
+# SDPA-C
 
 This repository aims to provide a Docker envvironment for the [SDPA-C](https://sdpa.sourceforge.net/family.html#sdpa-c).
 
